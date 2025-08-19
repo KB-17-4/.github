@@ -1,4 +1,4 @@
-# 🏠전 새내기
+<img width="968" height="158" alt="image" src="https://github.com/user-attachments/assets/e9dee785-a85c-4323-a52a-667e9cfdfac0" /># 🏠전 새내기
 ### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
 
 <br>
@@ -72,7 +72,7 @@
 ## 4. 프로젝트 배경
 
 ## 5. 설계 문서
-### [ERD 보러가기]▶️(https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)
+### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)
 <img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
 
 ### 시스템 아키텍처
