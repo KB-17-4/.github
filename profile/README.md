@@ -78,6 +78,21 @@
 ### 시스템 아키텍처
 
 ### API 명세
+<img width="1598" height="655" alt="image" src="https://github.com/user-attachments/assets/be8f5ca6-5e39-407a-8f22-d2f38af06973" />
+<img width="1599" height="621" alt="image" src="https://github.com/user-attachments/assets/955aacca-41bf-4d16-8f80-315b22aaeed9" />
+<img width="1598" height="571" alt="image" src="https://github.com/user-attachments/assets/b6c0bb2a-f433-4468-a79f-e288197d399e" />
+<img width="1601" height="586" alt="image" src="https://github.com/user-attachments/assets/2f94f4f9-b2a5-4722-804f-f578f7e4308f" />
+<img width="1598" height="425" alt="image" src="https://github.com/user-attachments/assets/008e2a7d-8292-4a27-b8e3-48a27db2ddd0" />
+<img width="1600" height="373" alt="image" src="https://github.com/user-attachments/assets/31683af6-3d33-4e15-aaae-b8f1805daaa9" />
+<img width="1598" height="598" alt="image" src="https://github.com/user-attachments/assets/4c57ec81-6fc1-4089-8dc4-b740b9b235a5" />
+<img width="1598" height="643" alt="image" src="https://github.com/user-attachments/assets/20a4cbf6-c429-4f23-9bf0-0dd91307e187" />
+<img width="1600" height="523" alt="image" src="https://github.com/user-attachments/assets/e382ed9a-7e0b-483b-9905-265f2ceda4df" />
+<img width="1598" height="660" alt="image" src="https://github.com/user-attachments/assets/fd3942f9-0ed2-4aa1-b822-63a0b334b45b" />
+
+
+
+
+
 
 ## 6. 서비스 화면
 ## 7. 핵심 기능
