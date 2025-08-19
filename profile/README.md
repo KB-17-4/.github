@@ -1,12 +1,33 @@
-## Hi there 👋
+# 🏠전새내기
+### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+## 📚목차
+1️⃣ [프로젝트 소개](#1.-프로젝트-소개)
+<br>
+2️⃣ [팀원 소개](#2.-팀원-소개)
+<br>
+3️⃣ [개발 환경](#2.-개발-환경)
+<br>
+4️⃣ [프로젝트 배경](#3.-프로젝트-배경)
+<br>
+5️⃣ [설계 문서](#4.-설계-문서)
+<br>
+6️⃣ [서비스 화면](#5.-서비스-화면)
+<br>
+7️⃣ [핵심 기능](#6.-핵심-기능)
+<br>
+8️⃣
+<br>
+9️⃣
+<br>
+🔟
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 1. 프로젝트 소개
+## 2. 팀원 소개
+## 3. 개발 환경
+## 4. 프로젝트 배경
+## 5. 설계 문서
+## 6. 서비스 화면
+## 7. 핵심 기능
