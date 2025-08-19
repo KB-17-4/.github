@@ -35,7 +35,7 @@
 ## 3. 개발 환경
 ## 4. 프로젝트 배경
 ## 5. 설계 문서
-### ERD
+### ERD https://www.erdcloud.com/d/u5xYQ42r9nD35bmRS
 <img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
 
 ## 6. 서비스 화면
