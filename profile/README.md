@@ -105,8 +105,7 @@
 
 ### 시스템 아키텍처
 
-### API 명세
-### ▶️[API 명세 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
+### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
 
 
 
