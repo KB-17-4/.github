@@ -44,7 +44,7 @@
 
 |문시윤|우현서|이동진|이세연|
 |:-:|:-:|:-:|:-:|
-|<img width="235" height="234" alt="image" src="https://github.com/user-attachments/assets/1360af2b-8684-4fd8-bc40-aca74dc0f227" />|<img width="212" height="225" alt="image" src="https://github.com/user-attachments/assets/f3063a1d-c147-466f-9cb4-2014fb6e0def" />|<img width="189" height="185" alt="image" src="https://github.com/user-attachments/assets/f18a753d-2774-4cbb-b1e0-faa9e46e9c31" />|<img width="214" height="208" alt="image" src="https://github.com/user-attachments/assets/605916d7-9ff6-4a1f-890d-14b0d0467138" />|
+|<img width="235" height="234" alt="image" src="https://github.com/user-attachments/assets/1360af2b-8684-4fd8-bc40-aca74dc0f227" />|<img width="212" height="225" alt="image" src="https://github.com/user-attachments/assets/27b17ab7-7006-4e95-9e64-edc7ede6a745" />|<img width="189" height="185" alt="image" src="https://github.com/user-attachments/assets/f18a753d-2774-4cbb-b1e0-faa9e46e9c31" />|<img width="214" height="208" alt="image" src="https://github.com/user-attachments/assets/605916d7-9ff6-4a1f-890d-14b0d0467138" />|
 |채팅방 기능<br>회원가입 후 모달창 기능<br>포트폴리오, UI/UX 설명서 제작|지도 내 리뷰 및 매물 조회 기능<br>서비스 배포<br>간트 차트 작성|매물 상세 페이지<br>매물 추천 페이지<br>추천 로직/대출 페이지 연결|등기부등본 Codef API 연동<br>등기부등본 결과/계약서 대조<br>기술명세서, API 명세서 등|
 
 ## 3. 개발 환경
