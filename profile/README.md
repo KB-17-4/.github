@@ -66,7 +66,9 @@
  <img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=ffffff" />
  <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat-square&logo=axios&logoColor=ffffff" />
 </p>
+
 ## 4. 프로젝트 배경
+
 ## 5. 설계 문서
 ### ERD https://www.erdcloud.com/d/u5xYQ42r9nD35bmRS
 <img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
