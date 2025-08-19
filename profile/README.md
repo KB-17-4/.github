@@ -65,6 +65,9 @@
 ### ERD https://www.erdcloud.com/d/u5xYQ42r9nD35bmRS
 <img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
 
+### 시스템 아키텍처
+
+### API 명세
 ## 6. 서비스 화면
 ## 7. 핵심 기능
 
