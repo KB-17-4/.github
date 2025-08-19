@@ -1,4 +1,4 @@
-<img width="968" height="158" alt="image" src="https://github.com/user-attachments/assets/e9dee785-a85c-4323-a52a-667e9cfdfac0" /># 🏠전 새내기
+# 🏠전 새내기
 ### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
 
 <br>
