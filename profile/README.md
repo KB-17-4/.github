@@ -8,7 +8,7 @@
 <br>
 2️⃣ [팀원 소개](#2.-팀원-소개)
 <br>
-3️⃣ [개발 환경](#3.-개발-환경)
+3️⃣ [개발 환경](#3.개발-환경)
 <br>
 4️⃣ [프로젝트 배경](#4.-프로젝트-배경)
 <br>
@@ -59,7 +59,7 @@
 
 <p>
  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=ffffff" />
- <img src="https://img.shields.io/badge/Kako Map API-FFCD00.svg?style=flat-square&logo=googlemaps&logoColor=4285F4" />
+ <img src="https://img.shields.io/badge/Kakako Map API-FFCD00.svg?style=flat-square&logo=googlemaps&logoColor=4285F4" />
  <img src="https://img.shields.io/badge/CODEF API-24CBD0.svg?style=flat-square&logo=rhinoceros&logoColor=ffffff" />
  <img src="https://img.shields.io/badge/OpenAI API-412991.svg?style=flat-square&logo=openai&logoColor=ffffff" />
 </p>
