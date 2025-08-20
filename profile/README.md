@@ -103,12 +103,6 @@
 
 <br>
 
-|위험도 중간|위험도 심각|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/58aa52d1-7fb8-49c9-8c31-2a81bdc30d01" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/dcebc1bb-a741-4fea-a39e-059ccabd734a" />|
-
-<br>
-
 |리뷰 작성|내 혜택함|
 |:-:|:-:|
 |<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/5ae97eea-f6be-48cf-b04c-b41f8998339a" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/4ced5281-f5d4-4652-b312-86f996c301a7" />|
