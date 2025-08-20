@@ -98,9 +98,8 @@
 
 <br>
 
-|등기부등본 분석|위험도 안전|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/db3f4020-d1b4-477f-bdb0-3ac9658cd9bc" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/1de28c33-5510-4b6f-a72e-06599812024c" />|
+등기부등본 분석 위험도 안전- 경고
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/b831c135-c17f-4f03-b743-d284ecb33dc9" />
 
 <br>
 
