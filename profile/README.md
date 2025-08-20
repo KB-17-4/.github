@@ -195,8 +195,8 @@
 ### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
 
 <br>
-<br>
-## 7. 팀원 소개  
+<br>  
+## 7. 팀원 소개   
 
 <img width="970" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd2d8c7f-4648-49c7-b798-8af65254ae6a" />
 | 팀원 | 역할 / 기술 스택 |
