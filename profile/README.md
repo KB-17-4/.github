@@ -35,18 +35,23 @@
 <br>
 **기** 존의 걱정을 싹 지워주는 앱, 바로 우리 프로젝트랍니다!
 
-## 2. 팀원 소개
-|박해세 (팀장)|안병우|김은민|김하나|
-|:-:|:-:|:-:|:-:|
-|<img width="235" height="208" alt="image" src="https://github.com/user-attachments/assets/23f1403f-7afd-411c-89e1-703b7fe14b80" />|<img width="212" height="173" alt="image" src="https://github.com/user-attachments/assets/799b7472-b17f-40f4-9a1c-1b7e745b62ec" />|<img width="189" height="175" alt="image" src="https://github.com/user-attachments/assets/4bd2a948-bf63-413a-9dbb-cd7145aeefd6" />|<img width="214" height="183" alt="image" src="https://github.com/user-attachments/assets/7958ebd5-9756-435e-81bb-54535b2f0173" />|
-|기획, 영상 편집 및 발표<br>계약서 Open API 연동<br>리뷰 작성 기능 개발|사용자 계정 관련 기능<br>요구사항 명세서<br>유스케이스 다이어그램|전세 계약 유형 테스트<br>매물 리뷰 기능<br>포트폴리오 제작|이체 및 지연이체 기능<br>채팅방 기능<br>Class Diagram 작성|
+## 2. 팀원 소개  
 
-<br>
+<img width="700" height="600" src="https://github.com/user-attachments/assets/7527c251-0ac2-4149-b9c1-c29cc28ff0a4" />
 
-|문시윤|우현서|이동진|이세연|
-|:-:|:-:|:-:|:-:|
-|<img width="235" height="234" alt="image" src="https://github.com/user-attachments/assets/1360af2b-8684-4fd8-bc40-aca74dc0f227" />|<img width="212" height="225" alt="image" src="https://github.com/user-attachments/assets/27b17ab7-7006-4e95-9e64-edc7ede6a745" />|<img width="189" height="185" alt="image" src="https://github.com/user-attachments/assets/f18a753d-2774-4cbb-b1e0-faa9e46e9c31" />|<img width="214" height="208" alt="image" src="https://github.com/user-attachments/assets/605916d7-9ff6-4a1f-890d-14b0d0467138" />|
-|채팅방 기능<br>회원가입 후 모달창 기능<br>포트폴리오, UI/UX 설명서 제작|지도 내 리뷰 및 매물 조회 기능<br>서비스 배포<br>간트 차트 작성|매물 상세 페이지<br>매물 추천 페이지<br>추천 로직/대출 페이지 연결|등기부등본 Codef API 연동<br>등기부등본 결과/계약서 대조<br>기술명세서, API 명세서 등|
+
+| 팀원 | 역할 / 기술 스택 |
+|:-:|:-|
+| 박해세 (팀장) | 기획 및 프로젝트 총괄, 계약서 Open API 연동, 리뷰 작성 기능 개발 |
+| 안병우 | Spring Security 기반 사용자 계정 관리, 서비스 배포 |
+| 김은민 | 전세 계약 유형 테스트, 매물 리뷰 기능 구현 |
+| 김하나 | 이체 및 지연이체 기능 개발, WebSocket 채팅 시스템, 서비스 배포 |
+| 문시윤 | 채팅방 기능 개발, 회원가입 모달 기능 구현 |
+| 우현서 | 지도 기반 리뷰/매물 조회, Kakao Map API 활용, 서비스 배포 |
+| 이동진 | 매물 상세/추천 페이지 구현, 추천 로직 및 대출 페이지 연동 |
+| 이세연 | 등기부등본 Codef API 연동, 등기부등본 결과와 계약서 대조 |
+
+
 
 ## 3. 개발 환경
 **Programming Language**
