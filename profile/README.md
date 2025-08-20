@@ -59,18 +59,24 @@
 
 
 ## 3. 서비스 화면
-회원가입 - 로그인
+### (1) 로그인 
+- spring security를 사용한 회원가입 / 로그인
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/0a5cfc2f-c354-4492-bcc6-9fab34629c21" />
 
 <br>
 
-|마이페이지(임차인)|마이페이지(임대인)|
-|:-:|:-:|
+### (2) 마이페이지
+- 임차인/임대인 마이페이지
+- 임대인은 지연이체 활성화 토글로 서비스 사용 여부 결정
+- 지연이체 로딩바로 현제 지연이체 상태 확인
+
 |<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/ce9d6461-08cf-4379-b481-37edc7bd7c96" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/40424e43-13ae-45ee-980b-cb7286471b24" />|
 
-<br>
-
-지도 검색 - 리뷰/매물
+<br>  
+  
+### (3) 지도 
+- Kakao Map API, Daum 우편번호 API를 사용해서 지도, 검색 가능
+- 지도에 매물 마커가 표시되고 범위에 맞는 리뷰와 매물이 조회  
 
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/d94ebd50-c529-486c-84e9-bf31febfc70a" />
 
