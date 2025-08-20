@@ -81,10 +81,8 @@
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/964c03bb-cc5f-47ba-b386-2106e5646f07" />
 <br>
 
-|사용자 맞춤 매물 추천|전세계약 유형 테스트|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/2f5257da-6e36-4fa2-9701-86b7e6519f17" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/323e980e-72a9-47b5-9c02-d86b61a47d58" />|
-
+전세계약 유형 테스트  
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/e0160555-4a8c-45a6-9500-7aa410860734" />
 <br>
 
 |계약서 업로드|계약서 업로드 완료|
