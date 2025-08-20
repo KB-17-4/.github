@@ -24,6 +24,8 @@
 ### 부동산 안심 계약 플랫폼 "전 새내기"  
 ![Image](https://github.com/user-attachments/assets/49239ffc-a7ca-43bd-893a-387b22757131)  ![Image](https://github.com/user-attachments/assets/793e6173-07e1-4b88-8656-74a11b3fdd26)  
 
+  &nbsp;  
+  
 ## 2. 프로젝트 배경
 
 ### 문제 인식
@@ -50,6 +52,8 @@
 </tr>
 </table>
 
+  &nbsp;  
+  
 
 ## 3. 서비스 화면
 ### (1) 로그인 
@@ -124,6 +128,8 @@
 <br>
 <br>
 
+  &nbsp;  
+  
 ## 4. 핵심 기능
 
 ### 1. 🏠 안전하고 투명한 계약 검증 시스템
@@ -145,6 +151,8 @@
 - **퇴거자 채팅 시스템**: 입주 예정자가 해당 주택의 퇴거자와 1:1 실시간 상담을 진행할 수 있도록 연결합니다. 이를 통해 집 상태, 관리비, 집주인 성향 등 서류만으로는 알 수 없는 생생한 실거주 정보를 얻고 궁금증을 해소할 수 있습니다.
 
 
+  &nbsp;  
+  
 ## 5. 개발 환경
 **Programming Language**
 
@@ -201,10 +209,12 @@
 
 <br>
 
+  &nbsp;  
+  
 
 ## 6. 설계 문서
 ### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
-* 아래 이미지는 주요 기능을 정리한 것으로 실제 구성과 차이가 있습니다 
+* 아래 이미지는 주요 기능을 정리한 것으로 실제 다이어그램과 차이가 있습니다 
 <img width="975" height="2343" alt="Image" src="https://github.com/user-attachments/assets/0b4aa7f3-2ab3-450b-b97f-af45101c360a" />
 <br>
 <br>
@@ -213,6 +223,8 @@
 
 <br>
  
+  &nbsp;  
+  
 ## 7. 전새내기를 만든 사람들   
 
 <img width="970" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd2d8c7f-4648-49c7-b798-8af65254ae6a" />  
