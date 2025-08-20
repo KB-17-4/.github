@@ -14,6 +14,7 @@
 [![설계 문서](https://img.shields.io/badge/설계_문서-A0A0A0?style=flat-square)](#6-설계-문서)  
 [![전새내기를 만든 사람들](https://img.shields.io/badge/전새내기를_만든_사람들-3A506B?style=flat-square&logo=github&logoColor=white)](#7-전새내기를-만든-사람들)  
 
+<br>
 
 ## 1. 프로젝트 소개
 ### 부동산 안심 계약 플랫폼 "전 새내기"  
