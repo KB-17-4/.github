@@ -108,7 +108,8 @@
 
 <br>
 
-## 4. 프로젝트 배경
+## 4. 프로젝트 배경  
+<img width="300" height="500" alt="Image" src="https://github.com/user-attachments/assets/32a27201-e31d-4c22-b7d6-f71b0af2d858" />
 
 ## 5. 설계 문서
 ### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)
