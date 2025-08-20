@@ -166,13 +166,22 @@
 
 |등기부등본 분석|위험도 안전|
 |:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/db3f4020-d1b4-477f-bdb0-3ac9658cd9bc" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/41beef9c-f507-4aca-a03d-872e37051794" />|
+|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/db3f4020-d1b4-477f-bdb0-3ac9658cd9bc" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/1de28c33-5510-4b6f-a72e-06599812024c" />|
 
 <br>
 
 |위험도 중간|위험도 심각|
 |:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/8d4c38d9-3b4d-43df-8ba4-c6666209b10e" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/a7ac5410-e87b-4572-99c0-1d37fadaff0c" />|
+|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/58aa52d1-7fb8-49c9-8c31-2a81bdc30d01" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/dcebc1bb-a741-4fea-a39e-059ccabd734a" />|
+
+<br>
+
+|리뷰 작성|내 혜택함|
+|:-:|:-:|
+|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/5ae97eea-f6be-48cf-b04c-b41f8998339a" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/4ced5281-f5d4-4652-b312-86f996c301a7" />|
+
+<br>
+<br>
 
 ## 7. 핵심 기능
 
