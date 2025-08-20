@@ -1,6 +1,6 @@
 # 🏠전 새내기
 ### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
-
+![Image](https://github.com/user-attachments/assets/660aee3e-2fdc-4f21-88c3-77fbc7a4c1c7)
 <br>
 
 ## 📚목차
