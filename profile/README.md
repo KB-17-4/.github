@@ -6,36 +6,13 @@
 <br>
 
 ## 📚 목차  
-
-[![프로젝트 소개](https://img.shields.io/badge/1.프로젝트_소개-FF6B6B?style=flat-square)](#1-프로젝트-소개)  
-### 프로젝트 소개  
-
-[![프로젝트 배경](https://img.shields.io/badge/2.프로젝트_배경-F78DA7?style=flat-square)](#2-프로젝트-배경)  
-### 프로젝트 배경  
-
-[![서비스 화면](https://img.shields.io/badge/3.서비스_화면-FFD93D?style=flat-square)](#3-서비스-화면)  
-### 서비스 화면  
-
-[![핵심 기능](https://img.shields.io/badge/4.핵심_기능-4D96FF?style=flat-square)](#4-핵심-기능)  
-### 핵심 기능  
-
-[![개발 환경](https://img.shields.io/badge/5.개발_환경-6BCB77?style=flat-square)](#5-개발-환경)  
-### 개발 환경  
-
-[![설계 문서](https://img.shields.io/badge/6.설계_문서-A0A0A0?style=flat-square)](#6-설계-문서)  
-### 설계 문서  
-
-[![전새내기를 만든 사람들](https://img.shields.io/badge/7.전새내기를_만든_사람들-3A506B?style=flat-square&logo=github&logoColor=white)](#7-전새내기를-만든-사람들)
-
-## 📚 목차  
-
-### 1. 프로젝트 소개  
-### 2. 프로젝트 배경  
-### 3. 서비스 화면  
-### 4. 핵심 기능  
-### 5. 개발 환경  
-### 6. 설계 문서  
-### 7. 전새내기를 만든 사람들  
+[![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-FF6B6B?style=flat-square)](#1-프로젝트-소개)  
+[![프로젝트 배경](https://img.shields.io/badge/프로젝트_배경-F78DA7?style=flat-square)](#2-프로젝트-배경)  
+[![서비스 화면](https://img.shields.io/badge/서비스_화면-FFD93D?style=flat-square)](#3-서비스-화면)  
+[![핵심 기능](https://img.shields.io/badge/핵심_기능-4D96FF?style=flat-square)](#4-핵심-기능)  
+[![개발 환경](https://img.shields.io/badge/개발_환경-6BCB77?style=flat-square)](#5-개발-환경)  
+[![설계 문서](https://img.shields.io/badge/설계_문서-A0A0A0?style=flat-square)](#6-설계-문서)  
+[![전새내기를 만든 사람들](https://img.shields.io/badge/전새내기를_만든_사람들-3A506B?style=flat-square&logo=github&logoColor=white)](#7-전새내기를-만든-사람들)  
 
 
 ## 1. 프로젝트 소개
