@@ -22,14 +22,7 @@
 
 ## 1. 프로젝트 소개
 ### 부동산 안심 계약 플랫폼 "전 새내기"  
-![Image](https://github.com/user-attachments/assets/49239ffc-a7ca-43bd-893a-387b22757131)  
-**전** 문가처럼 등기부등본을 분석하고,
-<br>
-**새** 로운 기준으로 계약서를 꼼꼼히 비교해요.
-<br>
-**내** 불안했던 부동산 거래는 이제 안심!
-<br>
-**기** 존의 걱정을 싹 지워주는 앱, 바로 우리 프로젝트랍니다!
+![Image](https://github.com/user-attachments/assets/49239ffc-a7ca-43bd-893a-387b22757131)  ![Image](https://github.com/user-attachments/assets/793e6173-07e1-4b88-8656-74a11b3fdd26)  
 
 ## 2. 프로젝트 배경
 
