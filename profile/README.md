@@ -142,7 +142,6 @@
 <br>
 
 ### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
-<img width="1028" height="1583" alt="image" src="https://github.com/user-attachments/assets/f8a6d65c-096c-4566-8deb-7d38cb99b612" />
 
 <br>
 <br>
