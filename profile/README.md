@@ -77,10 +77,8 @@
 
 <br>
 
-|매물 리뷰 리스트|채팅방|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/bd87916d-01de-4010-8886-410ccfcf32de" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/39d33e3c-18fc-4fb3-92cd-ab36cdd346f4" />|
-
+상세매물 - 리뷰 - 채팅방
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/964c03bb-cc5f-47ba-b386-2106e5646f07" />
 <br>
 
 |사용자 맞춤 매물 추천|전세계약 유형 테스트|
