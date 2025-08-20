@@ -73,7 +73,7 @@
 - Kakao Map API, Daum 우편번호 API를 사용해서 지도 보기, 검색 가능
 - 지도에 매물 마커가 표시되고 범위에 맞는 리뷰와 매물이 조회  
 
-<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/d94ebd50-c529-486c-84e9-bf31febfc70a" />
+<img width="1246" height="751" alt="Group 1989" src="https://github.com/user-attachments/assets/b3fa3243-426a-4a2f-be2f-7b68fb154181" />
 
 <br>
 
