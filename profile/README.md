@@ -58,13 +58,13 @@
 
 <br>
 
-### (2) 마이페이지
+### (2) 마이페이지 / 추천
 - 임차인/임대인 마이페이지
 - 임대인은 지연이체 활성화 토글로 서비스 사용 여부 결정
 - 지연이체 로딩바로 현제 지연이체 상태 확인
+- 첫 로그인시 입력한 정보 기반으로 매물 추천
 
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/ce9d6461-08cf-4379-b481-37edc7bd7c96" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/40424e43-13ae-45ee-980b-cb7286471b24" />|
-
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/58251027-cb0d-45c3-a701-0ba0ea49c0c1" />  
 <br>  
   
 ### (3) 지도 
