@@ -223,16 +223,8 @@
   
 ## 7. 전새내기를 만든 사람들   
 
-<img width="970" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd2d8c7f-4648-49c7-b798-8af65254ae6a" />  
-  
-| 팀원 | 역할 / 기술 스택 |  
-|:-:|:-|  
-| 박해세 (팀장) | 기획 및 프로젝트 총괄, 계약서 Open API 연동, 리뷰 작성 기능 개발 |
-| 안병우 | Spring Security 기반 사용자 계정 관리, 서비스 배포 |
-| 김은민 | 전세 계약 유형 테스트, 매물 리뷰 기능 구현 |
-| 김하나 | 이체 및 지연이체 기능 개발, WebSocket 채팅 시스템, 서비스 배포 |
-| 문시윤 | 채팅방 기능 개발, 회원가입 모달 기능 구현 |
-| 우현서 | 지도 기반 리뷰/매물 조회, Kakao Map API 활용, 서비스 배포 |
-| 이동진 | 매물 상세/추천 페이지 구현, 추천 로직 및 대출 페이지 연동 |
-| 이세연 | 등기부등본 Codef API 연동, 등기부등본 결과와 계약서 대조 |
+<img width="900" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd2d8c7f-4648-49c7-b798-8af65254ae6a" />   
+
+![2025-08-20 21-14-02](https://github.com/user-attachments/assets/cb089e00-f891-417f-ac26-564ff27ace7b)
+
 
