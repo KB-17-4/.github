@@ -37,7 +37,7 @@
 
 ## 2. 팀원 소개  
 
-<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/8c9bc3bc-b6ad-4c25-bc39-455761632fba" />  
+<img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/8c9bc3bc-b6ad-4c25-bc39-455761632fba" />  
 
 | 팀원 | 역할 / 기술 스택 |
 |:-:|:-|
@@ -103,7 +103,7 @@
 **Architecture**
 
 <p>
- <img width="700" height="600" alt="아키텍처" src="https://github.com/user-attachments/assets/db7b4c36-93f1-43a1-aafb-66976638db01" />
+ <img width="970" height="600" alt="아키텍처" src="https://github.com/user-attachments/assets/db7b4c36-93f1-43a1-aafb-66976638db01" />
 </p>
 
 <br>
@@ -138,8 +138,9 @@
 
 
 ## 5. 설계 문서
-### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)
-<img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
+### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
+* 아래 이미지는 주요 기능을 정리한 것으로 실제 구성과 차이가 있습니다 
+<img width="975" height="2343" alt="Image" src="https://github.com/user-attachments/assets/0b4aa7f3-2ab3-450b-b97f-af45101c360a" />
 <br>
 <br>
 
