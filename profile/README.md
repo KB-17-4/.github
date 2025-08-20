@@ -7,7 +7,8 @@
 
 ## 📚 목차  
 
-[![프로젝트 소개](https://img.shields.io/badge/1.프로젝트_소개-FF6B6B?style=flat-square)](#1-프로젝트-소개)  
+[![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-FF6B6B?style=flat-square)](#1-프로젝트-소개)  
+### 프로젝트 소개
 [![프로젝트 배경](https://img.shields.io/badge/2.프로젝트_배경-F78DA7?style=flat-square)](#2-프로젝트-배경)  
 [![서비스 화면](https://img.shields.io/badge/3.서비스_화면-FFD93D?style=flat-square)](#3-서비스-화면)  
 [![핵심 기능](https://img.shields.io/badge/4.핵심_기능-4D96FF?style=flat-square)](#4-핵심-기능)  
