@@ -68,28 +68,41 @@
 <br>  
   
 ### (3) 지도 
-- Kakao Map API, Daum 우편번호 API를 사용해서 지도, 검색 가능
+- Kakao Map API, Daum 우편번호 API를 사용해서 지도 보기, 검색 가능
 - 지도에 매물 마커가 표시되고 범위에 맞는 리뷰와 매물이 조회  
 
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/d94ebd50-c529-486c-84e9-bf31febfc70a" />
 
 <br>
 
-상세매물 - 리뷰 - 채팅방
+### (4) 매물 상세 - 리뷰 - 채팅방  
+- 매물 상세페이지에서 매물에 달린 리뷰 조회
+- 리뷰에는 납부 인증 뱃지, 장단점, 해당 리뷰가 작성된 시점의 계절 아이콘 등이 표시
+- 리뷰 리스트에 있는 채팅하기 버튼을 통해 퇴거자와 실시간 채팅 가능
+  
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/964c03bb-cc5f-47ba-b386-2106e5646f07" />
 <br>
 
-전세계약 유형 테스트  
+### (5) 전세계약 유형 테스트    
+- 집 계약시 본인에게 일어날 수 있는 사기 유형 테스트 기능
+- 결과로는 공통적으로 조심해야할 부분, 취약한 사기 유형을 출력
+
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/e0160555-4a8c-45a6-9500-7aa410860734" />
 <br>
 
-|계약서 업로드|계약서 업로드 완료|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/55d37279-343e-4bef-a6aa-5674f44c4f0f" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/0eadc494-c10c-4d97-94e7-bec9935c87b2" />|
-
+### (6) 계약서 업로드   
+- 실제 본인 집 계약서를 업로드
+- Chat GPT API를 사용해 ocr 분석 후 출력
+- 만약 일치하지 않는 부분이 있다면 수동으로 수정 후 제출  
+  
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/fedf192a-c07a-41c8-9618-28adae42a11e" />
 <br>
 
-지연이체 - 완료 - 내역
+### (7) 지연 이체 - 보증금 납부 
+- 계약서를 업로드 하였다면 지연 이체 납부 가능
+- 계약서 정보를 가져와 자동으로 입력해 주고, 한 번 더 확인 후 이체
+- 아무 이상이 없다면 7일 후 자동으로 이체 완료  
+  
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/08074f42-ff21-47fd-ab68-86a3e3b873f0" />
 
 <br>
