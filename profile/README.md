@@ -59,20 +59,6 @@
 </table>
 
 
-
-
-## 5. 설계 문서
-### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
-* 아래 이미지는 주요 기능을 정리한 것으로 실제 구성과 차이가 있습니다 
-<img width="975" height="2343" alt="Image" src="https://github.com/user-attachments/assets/0b4aa7f3-2ab3-450b-b97f-af45101c360a" />
-<br>
-<br>
-
-### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
-
-<br>
-<br>
-
 ## 6. 서비스 화면
 |회원가입|로그인|
 |:-:|:-:|
@@ -229,4 +215,16 @@
 
 <br>
 
+
+## 5. 설계 문서
+### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
+* 아래 이미지는 주요 기능을 정리한 것으로 실제 구성과 차이가 있습니다 
+<img width="975" height="2343" alt="Image" src="https://github.com/user-attachments/assets/0b4aa7f3-2ab3-450b-b97f-af45101c360a" />
+<br>
+<br>
+
+### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
+
+<br>
+<br>
 
