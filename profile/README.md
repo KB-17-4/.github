@@ -95,6 +95,12 @@
  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=ffffff" />
 </p>
 
+**Architecture**
+
+<p>
+ <img width="2467" height="1418" alt="아키텍처" src="https://github.com/user-attachments/assets/db7b4c36-93f1-43a1-aafb-66976638db01" />
+</p>
+
 <br>
 
 ## 4. 프로젝트 배경
