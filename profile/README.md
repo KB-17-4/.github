@@ -55,6 +55,7 @@
 ## 3. 서비스 화면 
 ### (1) 로그인 
 - spring security를 사용한 회원가입 / 로그인
+- 계약서 및 계좌 활용을 위한 개인정보 수집 동의
 <img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/0a5cfc2f-c354-4492-bcc6-9fab34629c21" />
 
 <br>
