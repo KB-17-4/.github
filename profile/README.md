@@ -71,9 +71,9 @@
 
 <br>
 
-|매물 지도 검색|매물 상세 페이지|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/42ee9fb7-c8fa-4663-9f38-50d607103d61" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/83500f64-058d-447b-869d-8f83db703786" />|
+지도 검색 - 리뷰/매물
+
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/d94ebd50-c529-486c-84e9-bf31febfc70a" />
 
 <br>
 
