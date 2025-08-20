@@ -109,8 +109,7 @@
 ## 5. 설계 문서
 ### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)
 <img width="4810" height="3502" alt="image" src="https://github.com/user-attachments/assets/165d61ec-89c0-4ca6-b223-362596de0cfa" />
-
-### 시스템 아키텍처
+<br>
 
 ### ▶️[API 명세서 보러가기](https://ultra-playground-0a9.notion.site/API-2542350d416c80208c98c09c1b1033fc?source=copy_link)
 
