@@ -60,9 +60,8 @@
 
 
 ## 6. 서비스 화면
-|회원가입|로그인|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/83c9682b-4381-45a6-a274-d90ec5b2c5b3" />|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/210e1616-1781-4dfc-8d02-66f6dc3d910e" />|
+회원가입 - 로그인
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/0a5cfc2f-c354-4492-bcc6-9fab34629c21" />
 
 <br>
 
