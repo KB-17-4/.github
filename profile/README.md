@@ -26,7 +26,7 @@
 
 ## 1. 프로젝트 소개
 ### 부동산 안심 계약 플랫폼 "전 새내기"  
-![Image](https://github.com/user-attachments/assets/660aee3e-2fdc-4f21-88c3-77fbc7a4c1c7)  
+![Image](https://github.com/user-attachments/assets/49239ffc-a7ca-43bd-893a-387b22757131)  
 **전** 문가처럼 등기부등본을 분석하고,
 <br>
 **새** 로운 기준으로 계약서를 꼼꼼히 비교해요.
@@ -37,8 +37,7 @@
 
 ## 2. 팀원 소개  
 
-<img width="700" height="600" src="https://github.com/user-attachments/assets/7527c251-0ac2-4149-b9c1-c29cc28ff0a4" />
-
+<img width="700" height="600" alt="Image" src="https://github.com/user-attachments/assets/8c9bc3bc-b6ad-4c25-bc39-455761632fba" />  
 
 | 팀원 | 역할 / 기술 스택 |
 |:-:|:-|
