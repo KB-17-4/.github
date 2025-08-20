@@ -116,10 +116,11 @@
 
 <br>
 
-|리뷰 작성|내 혜택함|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/5ae97eea-f6be-48cf-b04c-b41f8998339a" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/4ced5281-f5d4-4652-b312-86f996c301a7" />|
-
+### (8) 리뷰 작성 - 내 혜택함
+- 계약금 납부 후 일정 기간 납부 완료시(3개월) 리뷰 작성 가능
+- 계절별로 리뷰를 작성할 수 있으며, 해당 계절에 맞는 ui로 계절감 어필
+- 리뷰 작성 완료시 내 혜택함에서 쿠폰 발급 가능
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/dbb76983-ff5e-4e57-a77c-0c4cd81ff054" />
 <br>
 <br>
 
