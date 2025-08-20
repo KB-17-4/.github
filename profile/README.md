@@ -14,11 +14,11 @@
 <br>
 4️ [핵심 기능](#4-핵심-기능)
 <br>
-5️⃣ [팀원 소개](#5-팀원-소개)
+5️⃣ [개발 환경](#5-개발-환경)
 <br>
-6️⃣ [개발 환경](#6-개발-환경)
+6️⃣ [설계 문서](#6-설계-문서)
 <br>
-7️⃣ [설계 문서](#7-설계-문서)
+7️⃣ [팀원 소개](#7-팀원-소개)  
 
 ## 1. 프로젝트 소개
 ### 부동산 안심 계약 플랫폼 "전 새내기"  
@@ -128,24 +128,7 @@
 - **퇴거자 채팅 시스템**: 입주 예정자가 해당 주택의 퇴거자와 1:1 실시간 상담을 진행할 수 있도록 연결합니다. 이를 통해 집 상태, 관리비, 집주인 성향 등 서류만으로는 알 수 없는 생생한 실거주 정보를 얻고 궁금증을 해소할 수 있습니다.
 
 
-## 5. 팀원 소개  
-
-<img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/8c9bc3bc-b6ad-4c25-bc39-455761632fba" />  
-
-| 팀원 | 역할 / 기술 스택 |
-|:-:|:-|
-| 박해세 (팀장) | 기획 및 프로젝트 총괄, 계약서 Open API 연동, 리뷰 작성 기능 개발 |
-| 안병우 | Spring Security 기반 사용자 계정 관리, 서비스 배포 |
-| 김은민 | 전세 계약 유형 테스트, 매물 리뷰 기능 구현 |
-| 김하나 | 이체 및 지연이체 기능 개발, WebSocket 채팅 시스템, 서비스 배포 |
-| 문시윤 | 채팅방 기능 개발, 회원가입 모달 기능 구현 |
-| 우현서 | 지도 기반 리뷰/매물 조회, Kakao Map API 활용, 서비스 배포 |
-| 이동진 | 매물 상세/추천 페이지 구현, 추천 로직 및 대출 페이지 연동 |
-| 이세연 | 등기부등본 Codef API 연동, 등기부등본 결과와 계약서 대조 |
-
-
-
-## 6. 개발 환경
+## 5. 개발 환경
 **Programming Language**
 
  ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iMTUwcHgiIGhlaWdodD0iMTUwcHgiIHZpZXdCb3g9IjAgMCAzMi4wMCAzMi4wMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC4yNTYiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIuNTU3IDIzLjIyYzAgMC0wLjk4MiAwLjU3MSAwLjY5OSAwLjc2NSAyLjAzNyAwLjIzMiAzLjA3OSAwLjE5OSA1LjMyNC0wLjIyNiAwIDAgMC41OSAwLjM3IDEuNDE1IDAuNjkxLTUuMDMzIDIuMTU3LTExLjM5LTAuMTI1LTcuNDM3LTEuMjN6TTExLjk0MiAyMC40MDVjMCAwLTEuMTAyIDAuODE2IDAuNTgxIDAuOTkgMi4xNzYgMC4yMjQgMy44OTUgMC4yNDMgNi44NjktMC4zMyAwIDAgMC40MTEgMC40MTcgMS4wNTggMC42NDUtNi4wODUgMS43NzktMTIuODYzIDAuMTQtOC41MDgtMS4zMDV6TTE3LjEyNyAxNS42M2MxLjI0IDEuNDI4LTAuMzI2IDIuNzEzLTAuMzI2IDIuNzEzczMuMTQ5LTEuNjI1IDEuNzAzLTMuNjYxYy0xLjM1MS0xLjg5OC0yLjM4Ni0yLjg0MSAzLjIyMS02LjA5MyAwIDAtOC44MDEgMi4xOTgtNC41OTggNy4wNDJ6TTIzLjc4MyAyNS4zMDJjMCAwIDAuNzI3IDAuNTk5LTAuODAxIDEuMDYyLTIuOTA1IDAuODgtMTIuMDkxIDEuMTQ2LTE0LjY0MyAwLjAzNS0wLjkxNy0wLjM5OSAwLjgwMy0wLjk1MyAxLjM0NC0xLjA2OSAwLjU2NC0wLjEyMiAwLjg4Ny0wLjEgMC44ODctMC4xLTEuMDIwLTAuNzE5LTYuNTk0IDEuNDExLTIuODMxIDIuMDIxIDEwLjI2MiAxLjY2NCAxOC43MDYtMC43NDkgMTYuMDQ0LTEuOTV6TTEzLjAyOSAxNy40ODljMCAwLTQuNjczIDEuMTEtMS42NTUgMS41MTMgMS4yNzQgMC4xNzEgMy44MTQgMC4xMzIgNi4xODEtMC4wNjYgMS45MzQtMC4xNjMgMy44NzYtMC41MSAzLjg3Ni0wLjUxcy0wLjY4MiAwLjI5Mi0xLjE3NSAwLjYyOWMtNC43NDUgMS4yNDgtMTMuOTExIDAuNjY3LTExLjI3Mi0wLjYwOSAyLjIzMi0xLjA3OSA0LjA0Ni0wLjk1NiA0LjA0Ni0wLjk1NnpNMjEuNDEyIDIyLjE3NGM0LjgyNC0yLjUwNiAyLjU5My00LjkxNSAxLjAzNy00LjU5MS0wLjM4MiAwLjA3OS0wLjU1MiAwLjE0OC0wLjU1MiAwLjE0OHMwLjE0Mi0wLjIyMiAwLjQxMi0wLjMxOGMzLjA3OS0xLjA4MyA1LjQ0OCAzLjE5My0wLjk5NCA0Ljg4Ny0wIDAgMC4wNzUtMC4wNjcgMC4wOTctMC4xMjZ6TTE4LjUwMyAzLjMzN2MwIDAgMi42NzEgMi42NzItMi41MzQgNi43ODEtNC4xNzQgMy4yOTYtMC45NTIgNS4xNzYtMC4wMDIgNy4zMjMtMi40MzYtMi4xOTgtNC4yMjQtNC4xMzMtMy4wMjUtNS45MzQgMS43NjEtMi42NDQgNi42MzgtMy45MjUgNS41Ni04LjE3ek0xMy41MDMgMjguOTY2YzQuNjMgMC4yOTYgMTEuNzQtMC4xNjQgMTEuOTA4LTIuMzU1IDAgMC0wLjMyNCAwLjgzMS0zLjgyNiAxLjQ5LTMuOTUyIDAuNzQ0LTguODI2IDAuNjU3LTExLjcxNiAwLjE4IDAgMCAwLjU5MiAwLjQ5IDMuNjM1IDAuNjg1eiIvPiA8L2c+Cg08L3N2Zz4=)
@@ -202,7 +185,7 @@
 <br>
 
 
-## 7. 설계 문서
+## 6. 설계 문서
 ### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
 * 아래 이미지는 주요 기능을 정리한 것으로 실제 구성과 차이가 있습니다 
 <img width="975" height="2343" alt="Image" src="https://github.com/user-attachments/assets/0b4aa7f3-2ab3-450b-b97f-af45101c360a" />
@@ -213,4 +196,17 @@
 
 <br>
 <br>
+## 7. 팀원 소개  
+
+<img width="970" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fd2d8c7f-4648-49c7-b798-8af65254ae6a" />
+| 팀원 | 역할 / 기술 스택 |
+|:-:|:-|
+| 박해세 (팀장) | 기획 및 프로젝트 총괄, 계약서 Open API 연동, 리뷰 작성 기능 개발 |
+| 안병우 | Spring Security 기반 사용자 계정 관리, 서비스 배포 |
+| 김은민 | 전세 계약 유형 테스트, 매물 리뷰 기능 구현 |
+| 김하나 | 이체 및 지연이체 기능 개발, WebSocket 채팅 시스템, 서비스 배포 |
+| 문시윤 | 채팅방 기능 개발, 회원가입 모달 기능 구현 |
+| 우현서 | 지도 기반 리뷰/매물 조회, Kakao Map API 활용, 서비스 배포 |
+| 이동진 | 매물 상세/추천 페이지 구현, 추천 로직 및 대출 페이지 연동 |
+| 이세연 | 등기부등본 Codef API 연동, 등기부등본 결과와 계약서 대조 |
 
