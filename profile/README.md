@@ -95,9 +95,8 @@
 
 <br>
 
-|지연이체 완료|지연이체 목록|
-|:-:|:-:|
-|<img width="374" height="768" alt="image" src="https://github.com/user-attachments/assets/3904f58b-e195-4187-bbb9-eaea20e6956a" />|<img width="374" height="767" alt="image" src="https://github.com/user-attachments/assets/3a0e397a-8a7b-4fb4-983c-a895109f5c47" />|
+지연이체 - 완료 - 내역
+<img width="1246" height="751" alt="Image" src="https://github.com/user-attachments/assets/08074f42-ff21-47fd-ab68-86a3e3b873f0" />
 
 <br>
 
