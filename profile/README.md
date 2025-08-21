@@ -39,7 +39,7 @@
 
   &nbsp;  
   
-[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#-목차)   
+[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#-1._프로젝트_소개)   
 
 ## 3. 서비스 화면 
 ### (1) 로그인 
