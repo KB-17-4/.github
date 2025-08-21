@@ -1,7 +1,7 @@
 # [🏠전 새내기]
 ### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
 
-[![서비스 바로가기 Click!](https://img.shields.io/badge/서비스%20바로가기%20Click!-FF6B6B?style=flat-square&logo=web)](https://new-bie.o-r.kr/)  
+[![서비스 바로가기 Click!](https://img.shields.io/badge/서비스%20바로가기%20Click!-FFD93D?style=flat-square&logo=web)](https://new-bie.o-r.kr/)  
 
 <br>
 
@@ -116,7 +116,7 @@
 <br>
 
   &nbsp;  
-[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#-목차)   
+[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#전-새내기)
   
 ## 4. 핵심 기능
 
@@ -199,7 +199,7 @@
 <br>
 
   &nbsp;  
-[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#-목차)   
+[![맨_위로](https://img.shields.io/badge/맨_위로-FF6B6B?style=flat-square)](#전-새내기)
 
 ## 6. 설계 문서 
 ### ▶️[ERD 보러가기](https://www.erdcloud.com/d/Ce29KPQL8rBtiy4qd)  
