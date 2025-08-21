@@ -1,7 +1,7 @@
 # [🏠전 새내기]
 ### KB IT's Your Life 6기 최종 프로젝트 (2025.07.09 ~ 2025.08.21)
 
-[![서비스 바로가기 Click!](https://img.shields.io/badge/서비스%20바아아아아아아아아아아로가기%20Click!-FFD93D?style=flat-square&logo=web)](https://new-bie.o-r.kr/)  
+[![서비스 바로가기 Click!](https://img.shields.io/badge/[서비스%20바로가기%20Click!]-FFD93D?style=flat-square&logo=web)](https://new-bie.o-r.kr/)  
 
 <br>
 
