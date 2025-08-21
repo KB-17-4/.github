@@ -3,9 +3,6 @@
 
 [![서비스 바로가기 Click!](https://img.shields.io/badge/[서비스%20바로가기%20Click!]-FFD93D?style=flat-square&logo=web)](https://new-bie.o-r.kr/)  
 
-계약서 업로드 시 [경북 경산시 옥산동 132-7 101동 101호]를 예시로 입력하시면 계약서 등록이 됩니다.
-<img width="1321" height="1869" alt="image" src="https://github.com/user-attachments/assets/a17a0ce1-7915-46aa-baac-1fce79743079" />
-
 
 <br>
 
